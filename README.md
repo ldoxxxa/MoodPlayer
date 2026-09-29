@@ -33,14 +33,28 @@ A JavaFX desktop app that filters songs based on your current mood and builds a 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
-## Getting Started
-Prerequisites: JDK 21 installed
+## Getting started
 
-```bash
-git clone https://github.com/mtewo/MoodPlayer.git
-cd MoodPlayer
-./gradlew run
-```
+### Requirements
+- Java 21
 
+### Run the application
+1. Download or clone this repository.
+2. Open a terminal in the project folder.
+3. Run the application with the Gradle wrapper:
+
+   **macOS / Linux**
+   ```bash
+   ./gradlew run
+   ```
+
+   **Windows**
+   ```powershell
+   .\gradlew.bat run
+   ```
+
+4. Select your mood in the app to create a matching playlist.
+
+> Music files are not included in this repository. Add your own MP3 files to use the player.
 ---
 Built for the Interactive Application Development module in the 3rd Semester as part of my Media Computer Science studies.
