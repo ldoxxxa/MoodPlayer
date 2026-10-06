@@ -82,4 +82,4 @@ chmod +x gradlew
 
 4. Select your mood in the application to create a matching playlist.
 
-> Music files are not included in this repository. Add your own MP3 files to use the player.
+
