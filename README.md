@@ -1,7 +1,7 @@
 # MoodPlayer — Mood-Based Music Player
 
 **Semester project for the “Interactive Application Development” module**  
-University of Applied Science RheinMain | Winter Semester 2025
+University of Applied Science RheinMain | Winter Semester 2025/26
 
 
 ---
